@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-23T10:29:11.863455"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "\u2022 ",
+            "importance_rank": 1,
+            "page_number": 8
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "\u2022 \nNotebook: Bring a notebook to jot down notes about the wines you taste. \n\u2022 \nWater Bottle: Stay hydrated by drinking water between tastings. \n\u2022 \nAdditional Tips: Plan your wine tour route in advance and consider hiring a driver or \njoining a guided tour to avoid drinking and driving. \n \nTips and Tricks for Packing \n\u2022 \nCheck the Weather: Check the forecast before packing to ensure appropriate clothing. \n\u2022 \nMake a Packing List: Create a list to ensure nothing is forgotten. Cross o\ufb00 items as you \npack. \n\u2022 \nUse Packing Cubes: Organize clothes and maximize space. \n\u2022 \nRoll Your Clothes: Save space and reduce wrinkles. \n\u2022 \nPack Dual-Purpose Items: Choose items that serve multiple purposes. \n\u2022 \nWear Bulky Items: Wear bulky items like coats or boots during travel to save suitcase \nspace. \n\u2022 \nPack a Day Bag: Bring a small day bag for daily excursions. \n\u2022 \nLeave Room for Souvenirs: Leave extra space or bring a foldable bag for souvenirs. \n\u2022 \nAdditional Tips: Pack a small travel umbrella, a reusable shopping bag, and a \nportable phone charger. Consider using a luggage scale to avoid overweight baggage \nfees.",
+            "page_number": 8
+        }
+    ]
+}
