@@ -31,7 +31,7 @@ A smart, Dockerized Python solution that mimics an intelligent document analyst.
 ## 📁 Project Structure
 
 ```
-Challenge_1b/
+Adobe-Hackathon-Round1B/
 ├── Dockerfile                # Docker configuration
 ├── main.py                   # Main processing script
 ├── requirements.txt          # Python dependencies
@@ -41,7 +41,7 @@ Challenge_1b/
     │   ├── collection/       # Place all input PDFs here
     │   └── input.json        # Persona query file (must be named exactly this)
     └── output/
-        └── result.json       # Auto-generated output file
+        └── output.json       # Auto-generated output file
 ```
 
 ---
@@ -53,15 +53,17 @@ Make sure Docker is installed and running.
 #### ▶️ Step 1: Build the Docker Image
 
 ```
-docker build -t adobe hackathon round 1b .
+docker build --platform linux/amd64 -t adobe-hackathon-round1b .
 ```
 
 
 #### ▶️ Step 2: Run the Container
 
 ```
-docker run -v $(pwd):/app challenge1b
+docker run -v $(pwd):/app adobe-hackathon-round1b
 ```
+Note for Windows users (Git Bash):
+If you're running the Docker command on Windows using Git Bash or MSYS2, please add `winpty` before `docker run` to avoid TTY-related issues.
 
 - 📥 Input PDFs: `sample_dataset/input/collection/`
 
