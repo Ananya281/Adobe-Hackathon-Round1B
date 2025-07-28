@@ -32,10 +32,10 @@ A smart, Dockerized Python solution that mimics an intelligent document analyst.
 
 ```
 Challenge_1b/
-├── Dockerfile                #Docker configuration
-├── main.py                   #Main processing script
-├── requirements.txt          #Python dependencies
-├── README.md                 #Project documentation
+├── Dockerfile                # Docker configuration
+├── main.py                   # Main processing script
+├── requirements.txt          # Python dependencies
+├── README.md                 # Project documentation
 └── sample_dataset/
     ├── input/
     │   ├── collection/       # Place all input PDFs here
