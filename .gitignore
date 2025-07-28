@@ -1,1 +1,4 @@
 .DS_Store
+.gitattributes
+/model/all-MiniLM-L6-v2/pytorch_model.bin
+/model/all-MiniLM-L6-v2/model.safetensors
