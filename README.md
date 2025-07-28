@@ -60,8 +60,9 @@ docker build --platform linux/amd64 -t adobe-hackathon-round1b .
 #### ▶️ Step 2: Run the Container
 
 ```
-docker run -v $(pwd):/app adobe-hackathon-round1b
+docker run -v "$(pwd):/app" adobe-hackathon-round1b
 ```
+
 Note for Windows users (Git Bash):
 If you're running the Docker command on Windows using Git Bash or MSYS2, please add `winpty` before `docker run` to avoid TTY-related issues.
 
