@@ -1,0 +1,7 @@
+sentence-transformers==5.0.0
+transformers==4.54.0
+huggingface-hub==0.34.1
+torch==2.7.1
+pdfminer.six==20250506
+tqdm==4.66.1
+numpy==1.26.2
