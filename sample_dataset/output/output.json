@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "input_documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processing_timestamp": "2025-07-27T15:17:11.164977"
+  },
+  "extracted_sections": [
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Must-Visit Restaurants",
+      "importance_rank": 1,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Travel Tips",
+      "importance_rank": 2,
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "section_title": "Budget-Friendly Hotels",
+      "importance_rank": 3,
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "section_title": "Beach Trips",
+      "importance_rank": 4,
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Montpellier: A University City with Medieval Charm",
+      "importance_rank": 5,
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "section_title": "Hiking and Biking",
+      "importance_rank": 6,
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "section_title": "Course Camarguaise",
+      "importance_rank": 7,
+      "page_number": 3
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "South of France - Cuisine.pdf",
+      "refined_text": "must-visit restaurants, renowned wine regions, and the types of wines they produce to help you plan an unforgettable culinary adventure. Types of Food The cuisine in the South of France is diverse, reflecting the region's rich history and cultural influences. Here are some key types of food you can expect to find: • Seafood: With its extensive coastline, the South of France oﬀers an abundance of fresh seafood. Look for dishes featuring fish, shellfish, and crustaceans, often prepared with Mediterranean herbs and olive oil. Popular seafood dishes include grilled sardines, sea bass, and mussels marinière. The region's proximity to the Mediterranean Sea ensures that the seafood is always fresh and flavorful. • Provençal Cuisine: This style of cooking emphasizes fresh veg",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Travel Tips • Best Time to Visit: The best time to visit the South of France is during the spring (April to June) and fall (September to October) when the weather is pleasant, and the tourist crowds are smaller. • Transportation: The region is well-connected by an extensive network of trains, buses, and flights. Renting a car is also a great option for exploring the countryside and smaller towns. • Language: While French is the oﬃcial language, English is widely spoken in tourist areas. Learning a few basic French phrases can enhance your travel experience. Marseille: The Oldest City in France History Marseille, founded by Greek sailors around 600 BC, is the oldest city in France. Its strategic location on the Mediterranean coast made it a vital trading port thro",
+      "page_number": 2
+    },
+    {
+      "document": "South of France - Restaurants and Hotels.pdf",
+      "refined_text": "Budget-Friendly Hotels • Ibis Budget Nice Californie Lenval (Nice): A budget-friendly hotel oﬀering comfortable rooms and easy access to the beach and city center. The modern amenities and convenient location make it a great choice for budget-conscious travelers. • Hotel Le Saint Paul (Nice): A charming hotel located in a historic building, oﬀering aﬀordable rates and beautiful views of the Mediterranean. The cozy rooms and friendly service make it a pleasant stay. • Hotel des Arts (Montpellier): A budget-friendly hotel located in the heart of Montpellier, oﬀering comfortable rooms and easy access to the city's attractions. The artistic decor and central location make it a popular choice. • Hotel Le Mistral (Marseille): A budget-friendly hotel oﬀering simple, clean room",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Tips and Tricks.pdf",
+      "refined_text": "Beach Trips • Beach Bag: A large, waterproof bag for essentials. • Towels: Lightweight, quick-drying beach towels. • Beach Toys: Buckets, shovels, and toys for kids. • Snorkeling Gear: Bring your own gear for a better fit and comfort. • Additional Tips: Pack a beach umbrella or tent for shade and a cooler for drinks and snacks. Consider bringing a waterproof phone case to protect your device. Hiking and Outdoor Activities • Backpack: A sturdy, comfortable backpack for essentials. • Water Bottle: A reusable water bottle. • First Aid Kit: A small kit with band-aids, antiseptic wipes, and medications. • Insect Repellent: Protect against bugs and mosquitoes. • Additional Tips: Wear moisture-wicking clothing and sturdy hiking boots. Bring a map and compass o",
+      "page_number": 7
+    },
+    {
+      "document": "South of France - History.pdf",
+      "refined_text": "Montpellier: A University City with Medieval Charm Montpellier, founded in the 10th century, is known for its prestigious university and vibrant cultural scene. The city has a rich history, with a blend of medieval, Renaissance, and modern architecture. Key Historical Sites in Montpellier • Place de la Comédie: The central square of Montpellier, this bustling area is surrounded by cafes, shops, and the impressive Opéra Comédie. It is a great place to start exploring the city. • Saint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its imposing facade and twin towers. It is the seat of the Archdiocese of Montpellier. • Promenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city and features the Arc de Triomphe and th",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Things to Do.pdf",
+      "refined_text": "Hiking and Biking • Verdon Gorge: Known as the \"Grand Canyon of Europe,\" oﬀering spectacular hiking trails. • Luberon Regional Park: Explore picturesque villages and rolling hills, famous for lavender fields and vineyards. • Pyrenees National Park: Enjoy challenging hikes and stunning mountain scenery. • Mercantour National Park: Discover diverse wildlife and beautiful alpine landscapes. • Camargue: Explore the unique wetlands on horseback or by bike. • Mont Ventoux: Challenge yourself with a hike or bike ride up this iconic mountain. • Gorges du Tarn: Hike through dramatic gorges and enjoy breathtaking views. Water Activities • Ardèche River: Paddle through the stunning Ardèche Gorge. • Dordogne River: Enjoy a leisurely canoe trip, passing by medieval cast",
+      "page_number": 4
+    },
+    {
+      "document": "South of France - Traditions and Culture.pdf",
+      "refined_text": "Course Camarguaise The Course Camarguaise is a traditional bullfighting sport unique to the Camargue region. Unlike Spanish bullfighting, the objective is not to harm the bull but to remove ribbons and other decorations from its horns. The razeteurs, or participants, demonstrate agility and bravery as they dodge the bull's charges. The sport is deeply rooted in local culture and is often accompanied by music and festivities, particularly in Arles from April to October. Culinary Traditions Provençal Cuisine Provençal cuisine is characterized by its use of fresh, local ingredients and Mediterranean flavors. Olive oil, garlic, tomatoes, and herbs such as thyme, rosemary, and basil are staples in Provençal dishes. Some iconic dishes include ratatouille, a vegetable stew; bouillab",
+      "page_number": 3
+    }
+  ]
+}
