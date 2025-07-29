@@ -38,10 +38,22 @@ Adobe-Hackathon-Round1B/
 ├── README.md                 # Project documentation
 └── sample_dataset/
     ├── input/
-    │   ├── collection/       # Place all input PDFs here
-    │   └── input.json        # Persona query file (must be named exactly this)
+    │   ├── collection 1/       # Place all input PDFs here
+    │       └── input.json      # Persona query file (must be named exactly this)
+    │       └── 1.pdf
+    │       └── 2.pdf
+    |   ├── collection 2/       # Place all input PDFs here
+    │       └── input.json      # Persona query file (must be named exactly this)
+    │       └── 1.pdf
+    │       └── 2.pdf
+    |   ├── collection 3/       # Place all input PDFs here
+    │       └── input.json      # Persona query file (must be named exactly this)
+    │       └── 1.pdf
+    │       └── 2.pdf
     └── output/
-        └── output.json       # Auto-generated output file
+        └── Collection 1_output.json       # Auto-generated output file
+        └── Collection 2_output.json       # Auto-generated output file
+        └── Collection 3_output.json       # Auto-generated output file
 ```
 
 ---
@@ -60,7 +72,7 @@ docker build --platform linux/amd64 -t adobe-hackathon-round1b .
 #### ▶️ Step 2: Run the Container
 
 ```
-docker run -v "$(pwd):/app" adobe-hackathon-round1b
+docker run -v "$(pwd):/app" --network none adobe-hackathon-round1b
 ```
 
 Note:- for Windows users (Git Bash):
@@ -112,7 +124,7 @@ The system produces a structured JSON with:
 Output file is saved at:
 
 ```
-sample_dataset/output/result.json
+sample_dataset/output/collection 1_output.json
 ```
 
 ---
