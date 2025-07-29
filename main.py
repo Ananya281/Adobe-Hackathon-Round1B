@@ -108,8 +108,20 @@ def process_all(input_json_path, pdf_folder, output_path):
     print(f"\n✅ Output saved to: {output_path}")
 
 if __name__ == "__main__":
-    process_all(
-        input_json_path="sample_dataset/input/input.json",
-        pdf_folder="sample_dataset/input/collection",
-        output_path="sample_dataset/output/output.json"
-    )
+    base_input_dir = "sample_dataset/input"
+    base_output_dir = "sample_dataset/output"
+
+    for collection_name in os.listdir(base_input_dir):
+        collection_path = os.path.join(base_input_dir, collection_name)
+        input_json_path = os.path.join(collection_path, "input.json")
+        output_json_path = os.path.join(base_output_dir, f"{collection_name}_output.json")
+
+        if os.path.isdir(collection_path) and os.path.exists(input_json_path):
+            print(f"\n📂 Processing: {collection_name}")
+            process_all(
+                input_json_path=input_json_path,
+                pdf_folder=collection_path,
+                output_path=output_json_path
+            )
+        else:
+            print(f"⚠️ Skipping {collection_name} — missing input.json or not a folder.")

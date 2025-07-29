@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-29T04:08:49.426156"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Cottage Cheese and Veggie Bowl",
+      "importance_rank": 1,
+      "page_number": 16
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken and Mango Salad",
+      "importance_rank": 2,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Gomae (Spinach with Sesame Dressing)",
+      "importance_rank": 3,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Beef and Broccoli",
+      "importance_rank": 4,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Pork Chops with Apples",
+      "importance_rank": 5,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Honey Garlic Pork Ribs",
+      "importance_rank": 6,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Potato Salad",
+      "importance_rank": 7,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Käsespätzle (Cheese Noodles)",
+      "importance_rank": 8,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Baked Beans",
+      "importance_rank": 9,
+      "page_number": 4
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Cottage Cheese and Veggie Bowl Ingredients: 1 cup cottage cheese 1/4 cup diced cucumber 1/4 cup cherry tomatoes, halved 1/4 cup diced bell pepper • • • • • Salt and pepper to taste Instructions: In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper. • • Season with salt and pepper. • Serve immediately. Almond Butter and Apple Slices Ingredients: 1 apple, sliced • • 2 tablespoons almond butter Instructions: • Spread almond butter on each apple slice. • Serve immediately.",
+      "page_number": 16
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken and Mango Salad Ingredients: 1 cup cooked chicken breast, diced 1/2 mango, diced 1/4 cup red onion, finely chopped 1/4 cup cilantro, chopped • • • • • 2 tablespoons olive oil 1 tablespoon lime juice • • Salt and pepper to taste Instructions: In a bowl, combine the chicken, mango, red onion, and cilantro. • • Drizzle with olive oil and lime juice. • Season with salt and pepper, then toss to combine. Veggie and Cheese Quesadilla Ingredients: • • • • • 1 whole wheat tortilla 1/2 cup shredded cheese 1/4 cup bell pepper, sliced 1/4 cup zucchini, sliced 1/4 cup red onion, sliced Instructions: • Lay the tortilla flat and sprinkle half of the cheese on one side. • Add the bell pepper, zucchini, and red onion. • Sprinkle the remaining chees",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "Gomae (Spinach with Sesame Dressing) • Ingredients: o 1 bunch spinach o 2 tablespoons sesame seeds o 1 tablespoon soy sauce o 1 tablespoon sugar o 1 tablespoon mirin • Instructions: o Blanch spinach in boiling water, then rinse in cold water and squeeze out excess moisture. o Toast sesame seeds and grind them. o Mix sesame seeds with soy sauce, sugar, and mirin. o Toss spinach with dressing and serve. Gratin Dauphinois Ingredients: • o 4 potatoes o 1 cup heavy cream o 1/2 cup milk o 2 cloves garlic o 1/2 cup grated Gruyère cheese o 1 teaspoon salt o 1/2 teaspoon pepper • Instructions: o Preheat oven to 375°F (190°C). o Peel and thinly slice potatoes. o Rub a baking dish with a cut clove of garlic. o Layer potatoes in the",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Beef and Broccoli Ingredients: • 1 pound beef sirloin, thinly sliced • 2 cups broccoli florets • 1 small onion, diced • 2 cloves garlic, minced • 1/4 cup soy sauce • 1/4 cup beef broth • 2 tablespoons oyster sauce • 1 tablespoon cornstarch • 2 tablespoons vegetable oil • Cooked rice for serving Instructions: In the same skillet, sauté diced onion and minced garlic until fragrant. In a small bowl, mix soy sauce, beef broth, oyster sauce, and cornstarch. In a large skillet, heat vegetable oil over medium heat. • • • Cook sliced beef until browned, then set aside. • • Add broccoli florets and stir-fry until tender. • Return beef to the skillet and pour sauce over the top. • Cook until sauce is thickened. • Serve over cooked rice. Chicken Fajitas I",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Pork Chops with Apples Ingredients: • 4 pork chops • 2 apples, sliced • 1 small onion, sliced • 1/4 cup apple cider • 1/4 cup chicken broth • 2 tablespoons butter • 1 tablespoon olive oil • 1 teaspoon thyme • Salt and pepper to taste Instructions: In a large skillet, heat olive oil over medium heat. • Season pork chops with salt and pepper. • • Cook pork chops until browned on both sides, then set aside. • • Stir in apple cider, chicken broth, and thyme. • Return pork chops to the skillet and simmer for 10 minutes until cooked through. • Serve warm. In the same skillet, melt butter and sauté sliced onion and apples until softened. Ratatouille Ingredients: • 1 eggplant, diced • 1 zucchini, diced • 1 bell pepper, diced • 1 small onion, diced",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Honey Garlic Pork Ribs Ingredients: • 2 pounds pork ribs • 1/4 cup honey • 1/4 cup soy sauce • 2 tablespoons rice vinegar • 3 cloves garlic, minced • 1 teaspoon grated ginger • 1 teaspoon paprika • Salt and pepper to taste • Sliced green onions for garnish Instructions: • Preheat oven to 300°F (150°C). • Season ribs with salt, pepper, and paprika, then place in a baking dish. • • Cover with foil and bake for 2.5 hours, basting occasionally with the sauce. • Remove foil, increase oven to 400°F (200°C), and bake for 15-20 minutes until In a bowl, mix honey, soy sauce, rice vinegar, garlic, and ginger. Pour over the ribs. caramelized. • Garnish with green onions and serve. Moroccan Chicken Tagine Ingredients: • 4 chicken thighs • 1 small onion, d",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "Potato Salad • Ingredients: o 4 potatoes o 2 eggs o 1 small onion o 1/2 cup mayonnaise o 2 tablespoons mustard o 1 tablespoon vinegar o 1 teaspoon salt o 1/2 teaspoon pepper • Instructions: o Boil potatoes until tender, then dice. o Hard-boil eggs, then chop. o Mix potatoes, eggs, diced onion, mayonnaise, mustard, vinegar, salt, and pepper. o Chill for at least 1 hour before serving. Pretzels • Ingredients: o 2 1/4 teaspoons active dry yeast o 1 teaspoon sugar o 1 cup warm water o 3 cups flour o 1 teaspoon salt o 1/4 cup baking soda o 1 egg o Coarse salt • Instructions: o Dissolve yeast and sugar in warm water, let sit until foamy. o Mix flour and salt in a bowl, then add yeast mixture. o Knead until smooth, then let rise u",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "Käsespätzle (Cheese Noodles) • Ingredients: o 2 cups flour o 1/2 cup milk o 3 eggs o 1 teaspoon salt o 1/4 teaspoon nutmeg o 1/4 cup butter o 1 cup grated cheese o 1 small onion • Instructions: o Mix flour, milk, beaten eggs, salt, and nutmeg to form a batter. o Press batter through a spaetzle maker or colander into boiling water. o Cook until spaetzle floats to the surface, then drain. o Sauté sliced onion in butter until golden. o Layer spaetzle and grated cheese in a baking dish, top with sautéed onion. o Bake at 350°F (175°C) for 15 minutes until cheese is melted. o Serve warm. Kartoffelsalat (Potato Salad) Ingredients: • o 4 potatoes o 1 small onion o 1/4 cup bacon o 1/4 cup vinegar o 1/4 cup chicken broth o 1 tablespoon mustar",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "Baked Beans • Ingredients: o 4 cups cooked navy beans o 1 small onion o 1/2 cup molasses o 1/4 cup brown sugar o 1/4 cup ketchup o 1 tablespoon mustard o 1 teaspoon salt o 1/2 teaspoon pepper • Instructions: o Preheat oven to 350°F (175°C). o Sauté diced onion until translucent. o Mix beans, onion, molasses, brown sugar, ketchup, mustard, salt, and pepper in a baking dish. o Bake for 1 hour, stirring occasionally. o Serve warm. Bammy • Ingredients: o 2 cups grated cassava o 1/4 cup coconut milk o 1 teaspoon salt o Oil for frying • Instructions: o Mix grated cassava with coconut milk and salt. o Form mixture into flat cakes. o Fry in hot oil until golden. o Drain on paper towels and serve warm. Banchan • Ingredie",
+      "page_number": 4
+    }
+  ]
+}
